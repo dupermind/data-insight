@@ -26,4 +26,7 @@ X、Y两个已知数据集来源于现实世界。由于客观误差的存在，
 
 实际场景中，这些假设是普遍成立的。回归分析中，也有相应的方法判断结果是否符合前提假设。
 
+## 第三方依赖
 
+1. 使用regression-js进行数据分析，https://github.com/Tom-Alexander/regression-js
+1. 使用echarts绘图，https://echarts.baidu.com/
