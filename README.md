@@ -30,4 +30,4 @@ X、Y两个已知数据集来源于现实世界。由于客观误差的存在，
 
 1. 使用regression-js进行数据分析，https://github.com/Tom-Alexander/regression-js
 1. 使用echarts绘图，https://echarts.baidu.com/
-1. 界面开发基于material-dashboard（Boostrap 4），https://github.com/creativetimofficial/material-dashboard
+1. 界面开发基于material-dashboard（Bootstrap 4），https://github.com/creativetimofficial/material-dashboard
