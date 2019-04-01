@@ -4076,6 +4076,7 @@ tbody.collapse.show {
   list-style: none;
 }
 
+
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
@@ -14574,6 +14575,10 @@ fieldset[disabled] .form-group.is-focused .togglebutton label {
 .sidebar .nav {
   margin-top: 20px;
   display: block;
+}
+.sidebar .nav .sub-nav{
+  padding-left: 20px;
+  margin-top: 10px;
 }
 
 .sidebar .nav .caret {
